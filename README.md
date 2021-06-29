@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dhoouglas
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript and Frameworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello
 
-<!---
-dhoouglas/dhoouglas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @dhoouglas
+- 🧑‍🎓 I'm an information system graduate
+- 👨‍💻 I'm currently working at GrupoGP
+- 📚 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT NATIVE 
+- 📁 I'm looking for help with JAVASCRIPT, TYPESCRIPT
+
+
+
