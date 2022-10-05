@@ -1,10 +1,9 @@
 # 👋 Hello! Bem vindo ao meu Github profile.
 ## Meu nome é Douglas e meu nickname é "dhoouglas"!
 
-- 🧑‍🎓 I'm an information system graduate
-- 👨‍💻 I'm currently working at GrupoGP
-- 📚 I’m currently learning JAVA, JAVASCRIPT, TYPESCRIPT, HTML, CSS, SQL, NODE, REACT JS, REACT NATIVE, EXPO
-- 📁 I'm looking for help with JAVA, TYPESCRIPT, EXPO
+- 🎓 Sou formado em Sistema da Informação 
+- 👨‍💻 Atualmente trabalho com Infraestrutura - Grupo GP
+- 📚 Estou em constante aprendizado de algumas tecnologias JAVA, JAVASCRIPT, TYPESCRIPT, HTML, CSS, SQL, NODE, REACT JS, REACT NATIVE, EXPO
 
 ## Ferramentas e Tecnologias
 
@@ -17,9 +16,8 @@
   <a href="https://www.linkedin.com/in/douglas-araujoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-
-
-
-
-
+<div>
+  <a href="https://github.com/dhoouglas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhoouglas&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhoouglas&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+</div>
