@@ -1,5 +1,5 @@
-# 👋 Hello! Bem vindo ao meu Github profile.
-## Meu nome é Douglas e meu nickname é "dhoouglas"!
+## 👋 Hello! 
+### Me chamo Douglas e meu nickname é "dhoouglas"!
 
 - 🎓 Sou formado em Sistema da Informação 
 - 👨‍💻 Atualmente trabalho com Infraestrutura - Grupo GP
@@ -12,7 +12,7 @@
 ## Contatos:
 
 <div>
-  <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dhoouglas@hotmail.comi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-araujoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
