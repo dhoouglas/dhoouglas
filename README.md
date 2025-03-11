@@ -13,7 +13,7 @@
 
 Atualmente, estou focado em aprimorar meu conhecimento em algumas das seguintes tecnologias:
 
-- **Desenvolvimento Frontend**: React, JavaScript, TypeScript
+- **Desenvolvimento Frontend**: React, JavaScript, TypeScript, NextJS
 - **Desenvolvimento Mobile**: React Native, Expo
 - **Desenvolvimento Backend**: Node.js, Java, Spring Boot
 - **Banco de Dados**: PostgreSQL, MySQL
@@ -31,7 +31,8 @@ Atualmente, estou focado em aprimorar meu conhecimento em algumas das seguintes 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="35" alt="Html" title="Html"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="35" alt="CSS" title="CSS"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="35" alt="React Js / React Native" title="React Js / React Native"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="35" alt="TailwindCss" title="TailwindCss"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="35" alt="TailwindCss" title="TailwindCss"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30" height="35" alt="NextJS" title="NextJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="35" alt="NodeJS" title="NodeJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="35" alt="Java" title="Java"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="35" alt="Spring" title="Spring"/> 
