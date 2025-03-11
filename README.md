@@ -2,7 +2,6 @@
 **`Desenvolvedor Mobile | FullStack`**
 
 ### 
-
 - 🎓 Formado em Sistemas de Informação
 - 👨‍💻 Trabalho com **Infraestrutura** no **Grupo GP**, evoluindo para migrar para área de desenvolvimento.
 - 💻 Em constante aprendizado em várias tecnologias, com foco em **desenvolvimento Mobile** e **FullStack**
